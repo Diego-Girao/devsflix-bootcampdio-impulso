@@ -24,7 +24,7 @@ header .container {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url('/img/fundo_header_logo.webp');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url('../img/fundo_header_logo.webp');
 }
 
 header .logo {
