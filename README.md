@@ -4,6 +4,8 @@
 
 # DEVSFLIX 🎥🎦🎬📽💻
 
+![image](https://user-images.githubusercontent.com/70491871/140812929-8ae36dcb-c775-4e89-9831-1d121e06376c.png)
+
 
 ## Objetivo do projeto 📝
 ✅ Criar um clone do Netflix bem simples sem muito código, uma atividade bem light para consolidar a base, assim surgiu o DEVSFLIX, o streaming em homenagem a galera DEV e que curte Techs e afins.
