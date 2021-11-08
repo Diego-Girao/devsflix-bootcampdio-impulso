@@ -48,7 +48,7 @@ header nav a:hover {
 /*filme principal*/
 .main-movie {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)100%), url('/img/cover-mr-robot.jpg');
+    background: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)100%), url('../img/cover-mr-robot.jpg');
 
 
     height: 600px;
