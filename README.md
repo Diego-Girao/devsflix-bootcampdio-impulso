@@ -22,6 +22,6 @@
 ✅ Carousel
 
 ## Projeto Online 🔗
-✅ <a href="" target="_blank">DEVSFLIX</a>
+✅ <a href="https://diego-girao.github.io/devsflix-bootcampdio-impulso/" target="_blank">DEVSFLIX</a>
 
 
